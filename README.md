@@ -1,2 +1,3 @@
 # tlx-toki
-Contains solutions of TLX-TOKI problems
+Contains (mostly) my solutions of TLX-TOKI problems
+my profile : https://tlx.toki.id/profiles/veysze2nd
